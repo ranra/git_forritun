@@ -14,6 +14,7 @@ fornafn=input("slaðu inn fornafn ")
 eftirnafn =input("sláðu inn eftirnafn ")
 print("halló "+fornafn,eftirnafn)
 '''
+
 #dæmi3
 hair=0
 lair=0
